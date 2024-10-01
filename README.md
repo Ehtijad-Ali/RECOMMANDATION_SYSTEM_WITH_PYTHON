@@ -1,5 +1,5 @@
 # 🎬 Recommandation System 
-##🎯 Objectives
+## 🎯 Objectives
 🔍 Analyze user ratings for various movies and identify trends.
 📊 Explore correlations between different movies based on user ratings.
 📈 Visualize the distribution of ratings and identify high-rated or frequently rated movies.
